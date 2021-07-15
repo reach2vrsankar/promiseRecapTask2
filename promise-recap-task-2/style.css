@@ -1,0 +1,7 @@
+#home{
+    min-height: 91vh;
+    background-image: url("Ringstrilogyposter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
